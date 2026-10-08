@@ -1,0 +1,8 @@
+# want to ignore any temporary pbi files from when Power BI is open
+~$*.pbix
+
+# We also want to ignore the venv since it is a copy of python and all the packages (a lot of files)
+venv/
+
+# Same idea with what we are going to extract, we don't need that either because these are large folders and the python is what we want
+extract/raw/

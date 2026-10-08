@@ -1,0 +1,1 @@
+This is for a project to build a pipeline to feed an SSMS database with football data which ultimately feeds a Power BI fantasy football dashboard.
